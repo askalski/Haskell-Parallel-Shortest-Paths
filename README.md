@@ -3,8 +3,11 @@ floyd-warshall algorithm implementation in Haskell, with tests in python and C (
 Prequisites:
 
 sudo apt-get install ghc
+
 sudo apt-get install cabal-install
+
 cabal update
+
 cabal install parallel
 
 Usage:
